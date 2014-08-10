@@ -18,9 +18,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+`glatinpay.new(my_str).translate` or take a shortcut `my_str.to_piglatin`
 
 ## Contributing
+
+(Not sure why you would want to, but whatever.)
 
 1. Fork it ( https://github.com/[my-github-username]/iglatinpay/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
