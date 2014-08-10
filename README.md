@@ -1,6 +1,6 @@
 # Iglatinpay
 
-TODO: Write a gem description
+For all of the times you must output piglatin
 
 ## Installation
 
